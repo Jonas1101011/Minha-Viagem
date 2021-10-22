@@ -1,0 +1,53 @@
+h1 {
+    font-style: calc(34); 
+    font-family: cursive;
+    text-align: center;
+    font-size: 400;
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-size: 200;
+}
+
+h3{
+    text-align: center;
+    font-size: 200;
+
+}
+
+h4{
+    text-align: center;
+    font-size: 200;
+
+}
+
+
+h5{
+    
+    text-align: center;
+    vertical-align: center;
+
+
+}
+
+h6{
+    font-size: 150;
+
+
+}
+div {
+    border: 19px solid #000000;
+    padding: 10px;
+ 
+
+
+}
+
+body{
+    background-image: url(../gesuis.jpg);
+    background-size: cover;
+    
+
+}

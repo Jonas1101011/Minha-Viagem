@@ -1,0 +1,20 @@
+#quadro {
+    height: 768px;
+    width: 1225px;
+    background-image: url(../viagem.jpg) ;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    
+    
+
+}
+#mda{
+     position:fixed;
+     bottom:5px;
+     right:5px;
+     opacity:0.5;
+     z-index:99;
+     color:white;
+     background-image: url(../viagem.jpg);
+    
+}
